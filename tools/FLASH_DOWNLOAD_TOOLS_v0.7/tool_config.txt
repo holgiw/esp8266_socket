@@ -1,0 +1,9 @@
+path_data:
+choosed:D:\Bahn\ESP8266\steckdose\bin\boot_v1.1.bin;0x0000;
+choosed:D:\Bahn\ESP8266\steckdose\bin\upgrade\user1.bin;0x01000;
+choosed:D:\Bahn\ESP8266\steckdose\bin\blank.bin;0x7e000;
+empty:;0x40000;
+empty:;;
+empty:;;
+empty:;;
+default_path:.;
